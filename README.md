@@ -1,5 +1,4 @@
-### QRCARD is an application based on a system of scanning restaurant cards through the use of QR code.
-### This application is at the service of restaurateurs and their potential customers. 
+QRCARD is an application based on a system of scanning restaurant cards through the use of QR code. This application is at the service of restaurateurs and their potential customers. 
 
 ## QRCARD - Client
 
