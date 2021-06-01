@@ -17,7 +17,7 @@ expo start
 
 ### Commands
 
-1. To reload the app
+1. Reload the app
 ```sh
 r
 ```
