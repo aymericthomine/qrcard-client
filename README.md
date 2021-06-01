@@ -21,11 +21,11 @@ expo start
 ```sh
 r
 ```
-2. Launch in IOS
+2. Launch on IOS
 ```sh
 i
 ```
-2. Launch in Android
+2. Launch on Android
 ```sh
 a
 ```
